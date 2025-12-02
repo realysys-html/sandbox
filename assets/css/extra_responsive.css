@@ -1,0 +1,192 @@
+
+
+@media screen and (min-width:3000px){
+
+
+}
+
+
+@media screen and (min-width:2100px){
+
+
+}
+
+
+}
+
+@media screen and (max-width:1920px){
+
+
+}
+@media screen and (max-width:1800px){
+
+}
+
+
+@media screen and (max-width:1750px){
+  .sn-grid-view.grid-view table{
+  	min-width: 1600px;
+  }
+  /*.waste_trans-tabs_links table{
+  	min-width: auto !important;
+  }*/
+  .sn-grid-view.grid-view .mCSB_scrollTools.mCSB_1_scrollbar.mCS-light.mCSB_scrollTools_horizontal{
+  		bottom: -26px;
+  }
+  .home-tabs .pagination {
+    margin: 14px 0;
+}
+
+}
+@media screen and (max-width:1680px){
+	
+		
+}
+@media screen and (max-width:1600px){
+	main.sidebar_on .homecrate_status .columns.homecrate_status_progress {
+	    padding: 30px 35px 10px;
+	}
+	main.sidebar_on .homecrate_status .progress > h3 {
+	    font-size: 1.5em;
+	}
+	main.sidebar_on #home_progress_bar_area {
+	    width: 90px !important;
+	    height: 90px !important;
+	    margin: 0 auto 10px;
+	}
+	main.sidebar_on .homecrate_status_progress .progress-details > div {
+	    width: 100%;
+	}
+	main.sidebar_on .homecrate_status_progress .progress-details h3{
+	    margin: 0 0 10px;
+	}
+	main.sidebar_on .homecrate_status_progress .progress-details ul li{
+		margin-bottom: 5px;
+		display: inline-block;
+		padding: 0 5px;
+	}
+	main.sidebar_on .homecrate_status_progress .progress-details ul li span{font-size: 1.5em; width: auto;}
+	.sidemenu-bar .icon-menu>ul>li>a span{ margin-top: 5px; }
+	.sidemenu-bar .icon-menu>ul>.border-botom{ margin: 1px auto }
+	.sidemenu-bar .icon-menu>ul {margin-bottom: 4px;}
+		div#userTable_wrapper {
+	    min-width: 2000px;
+	}
+
+	table#addressManagementTable {
+	    min-width: 2000px;
+	}
+	.all-status-table table{
+		min-width: 1200px;
+	}
+	#addressManagementTable_wrapper {
+		min-width: 2000px !important;
+	}
+}
+@media screen and (max-width:1540px){
+	 
+.site-manager-table .sorting_desc:before,
+.site-manager-table .sorting_desc:after,
+.site-manager-table .sorting:before,
+.site-manager-table .sorting:after{bottom:14px !important;}
+
+
+	
+}
+@media screen and (max-width:1510px){
+
+}
+@media screen and (max-width:1440px){
+
+}
+
+@media screen and (max-width:1380px){
+	
+}
+@media screen and (max-width:1366px){
+
+	
+}
+@media screen and (max-width:1280px){
+
+
+}
+@media screen and (max-width:1170px){
+
+		
+}
+@media screen and (max-width:1100px){
+
+}
+
+@media screen and (max-width: 1024px){
+	table#userTable {
+	    width: 100%;
+	}
+	.chat-actions-combine{ width: 85px; }
+
+	.d-scroll{ overflow-x: auto;}
+}
+
+@media screen and (max-width: 870px){
+	.new_registration .sn_form_dashboard_tab .tb_butn_area.mobile-fix{
+		margin-left: auto !important;
+		width: 157px;
+	}
+	.mobile-fix .limit-dots{
+		top: 0;
+	}
+}
+
+@media screen and (max-width: 800px){
+	.waste_trans-tabs_links ul.tabs {
+	    padding-left: 10px;
+	}
+	.waste_trans-tabs_links ul.tabs li {
+	    padding: 1em 6px;
+	}
+}
+
+@media screen and (max-width: 750px){
+	.waste_transfar_form .sub-header.sn_sub-fillter .right {
+	     margin-top: 0; 
+	}
+}
+
+@media screen and (max-width: 700px){
+
+}
+
+
+@media screen and (max-width: 600px){
+
+}
+
+@media screen and (max-width: 550px){
+
+	
+}
+
+@media screen and (max-width: 500px){
+	.more-filter-popup .popup-inner{
+		height: 80%;
+	}
+	.more-filter-popup table td {
+		vertical-align: bottom;
+		padding: 8px 41px 8px 17px;
+	}
+}
+
+@media screen and (max-width: 450px){
+
+}
+
+@media screen and (max-width: 400px){
+
+
+}
+@media screen and (max-width: 320px){
+
+}
+@media only screen and (min-width : 768px) and (max-width : 1024px) {
+}
