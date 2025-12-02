@@ -1,0 +1,68 @@
+
+@media screen and (max-width: 1750px) {
+	.document_file_view p+p a img {max-width: fit-content;}
+
+}
+
+@media screen and (max-width: 1740px) {
+	.mscroll-height-400{ height:400px; }
+}
+
+
+@media screen and (max-width: 1510px) {
+
+
+	span.icon-alert {font-size: 12px;}
+	table.form-table th {font-size: 13px;}
+	.machine-type-bg .form-ctrol {font-size: 13px;}
+	.res-task-button {padding: 10px 7px;font-size: 11px;}
+	label.selectUser span {margin-left: 10px;min-height: 30px;}
+	.selectUser input[type="radio"] {width: 15px;height: 15px;margin-right: 0;}
+	.homecrate_status .progress > h3{text-align: center;line-height: 1.3;}
+
+}
+
+
+
+@media screen and (max-width: 1440px) {
+	    .icon-menu > ul { overflow:visible; }
+	    .team-table tbody tr td { padding: 0.5em 1em; }
+	    
+} 
+
+
+
+
+@media screen and (max-width: 1280px) {
+div.dataTables_wrapper div.dataTables_paginate ul.pagination {
+    margin-bottom: 0 !important;
+}
+
+
+	.go-form-group.in-go.clear-transport-report .site-btn {margin-left: 0;}
+	.color-circle.cirle-sec {margin-top: 15px;}
+
+	.job-mng-center-fix .site-btn {font-size: 15px;}
+	.froms-group.job-mng-center-fix {vertical-align: middle;}
+
+
+	.regime-height-fix {height: 250px;}
+
+	.regime-height-fix h2{font-size: 17px;}
+}
+
+
+@media screen and (max-width: 1200px) {
+
+span.icon-alert {line-height: 1.5em;display: flex;flex-direction: row;align-items: center;}
+}
+
+
+
+
+
+
+@media screen and (max-width: 600px) {
+.add_validation_group_list_ag {flex-direction: column;align-items: baseline;}
+.sn_role-heading h3 {font-size: 18px;}
+}
