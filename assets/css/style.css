@@ -8551,7 +8551,7 @@ progress#file {
 }
 .job-popup-table  th{
     background:#e4e4ed;
-    padding: 12px 10px;
+    padding: 12px 7px;
 }
 .job-popup-table  th:first-child,
 .job-popup-table  td:first-child{
@@ -14338,3 +14338,4 @@ div#advance-filter-inspection .popup-inner{ width:50% !important; }
 .apply-btn.task-assigner-apply-btn { width: 140px;}
 
 .col-form-label {margin-bottom: 10px;}
+
