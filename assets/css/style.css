@@ -1223,7 +1223,6 @@ div#edit-certificate-popup .popup-inner,
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
-    /*font-family: 'apercu-regular';*/
     font-family: 'apercu';
     font-weight: 300;
     -webkit-transition: all 0.5s ease-in-out;
